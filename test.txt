@@ -1,1 +1,1 @@
-test
+A sample file
